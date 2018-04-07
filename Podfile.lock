@@ -1,0 +1,22 @@
+PODS:
+  - Utils.swift (0.0.1):
+    - ZVRefreshing
+  - ZVActivityIndicatorView (0.1.0)
+  - ZVRefreshing (2.0.4):
+    - ZVActivityIndicatorView
+
+DEPENDENCIES:
+  - Utils.swift (from `../Utils.swift`)
+
+EXTERNAL SOURCES:
+  Utils.swift:
+    :path: ../Utils.swift
+
+SPEC CHECKSUMS:
+  Utils.swift: 337418f12a9a41a3edbd2a0def188f0a9699232d
+  ZVActivityIndicatorView: 4dc25a5af4020844a4c619a85225b38d564016cf
+  ZVRefreshing: a537440942dde41471f7ec6517735f1e8c38334b
+
+PODFILE CHECKSUM: 173184ecc6b498fecaafb137bbdcd9fbf5ac2914
+
+COCOAPODS: 1.4.0
